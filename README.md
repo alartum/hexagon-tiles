@@ -1,7 +1,7 @@
 # hexagon-tiles
 Useful instruments for creating and managing with fields of hexagonal cells. **[Not finished]** 
 
-#Info
+## Info
 Currently supported features:
 
 - generation of fields with given height/width
